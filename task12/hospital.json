@@ -1,0 +1,22 @@
+{
+  "patients": [
+    {
+      "name": "Bobby",
+      "surname": "Axelrod",
+      "birth": "10-10-1981",
+      "health": "not health"
+    },
+    {
+      "name": "Wendy",
+      "surname": "Rhoads",
+      "birth": "12-12-1983",
+      "health": "not health"
+    },
+    {
+      "name": "Chuck",
+      "surname": "Rhoads",
+      "birth": "11-11-1980",
+      "health": "not health"
+    }
+  ]
+}
